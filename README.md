@@ -1,6 +1,6 @@
 # RDKit Isomer Generator
 
-- [Blog](#[prerequisites](https://corvus-ikshana.hashnode.dev/isomer-generations-using-rdkit-library-for-mass-molecular-docking-tests-part-1))
+- [Blog](#https://corvus-ikshana.hashnode.dev/isomer-generations-using-rdkit-library-for-mass-molecular-docking-tests-part-1)
 
 This Python script is designed to generate and visualize isomers of a given molecule in Simplified Molecular Input Line Entry System (SMILES) format using the RDKit library. It also generates IUPAC-like names for each isomer and stores the results in a JSON file.
 
